@@ -1,5 +1,11 @@
 # The Absurd Clause Contest
 
+[![make.fun · u-donrulezz-the-absurd-clause-contest-035cc0f1](https://make.fun/badge/u-donrulezz-the-absurd-clause-contest-035cc0f1.svg)](https://make.fun/bounty/u-donrulezz-the-absurd-clause-contest-035cc0f1?utm_source=github&utm_medium=readme&utm_campaign=u-donrulezz-the-absurd-clause-contest-035cc0f1)
+[![rank](https://make.fun/badge/u-donrulezz-the-absurd-clause-contest-035cc0f1/exrazor01-creator/u-donrulezz-the-absurd-clause-contest-035cc0f1/rank.svg)](https://make.fun/bounty/u-donrulezz-the-absurd-clause-contest-035cc0f1/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-donrulezz-the-absurd-clause-contest-035cc0f1)
+[![reward](https://make.fun/badge/u-donrulezz-the-absurd-clause-contest-035cc0f1/exrazor01-creator/u-donrulezz-the-absurd-clause-contest-035cc0f1/reward.svg)](https://make.fun/bounty/u-donrulezz-the-absurd-clause-contest-035cc0f1?utm_source=github&utm_medium=readme&utm_campaign=u-donrulezz-the-absurd-clause-contest-035cc0f1)
+
+Bounty: https://make.fun/bounty/u-donrulezz-the-absurd-clause-contest-035cc0f1
+
 **Entry:** "Section 14.3: by accepting these terms, you grant us a non-exclusive, royalty-free licence to your dreams, including the recurring one about the exam you never studied for."
 
 **Characters:** 172 (gate: 1–200, one sentence)
